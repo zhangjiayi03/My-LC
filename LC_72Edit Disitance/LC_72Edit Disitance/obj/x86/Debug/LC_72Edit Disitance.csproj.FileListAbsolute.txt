@@ -1,0 +1,5 @@
+d:\documents\visual studio 2010\Projects\LC_72Edit Disitance\LC_72Edit Disitance\bin\Debug\LC_72Edit Disitance.exe
+d:\documents\visual studio 2010\Projects\LC_72Edit Disitance\LC_72Edit Disitance\bin\Debug\LC_72Edit Disitance.pdb
+d:\documents\visual studio 2010\Projects\LC_72Edit Disitance\LC_72Edit Disitance\obj\x86\Debug\LC_72Edit Disitance.exe
+d:\documents\visual studio 2010\Projects\LC_72Edit Disitance\LC_72Edit Disitance\obj\x86\Debug\LC_72Edit Disitance.pdb
+d:\documents\visual studio 2010\Projects\LC_72Edit Disitance\LC_72Edit Disitance\obj\x86\Debug\LC_72Edit Disitance.csprojResolveAssemblyReference.cache

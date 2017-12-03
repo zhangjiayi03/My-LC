@@ -1,0 +1,4 @@
+d:\documents\visual studio 2010\Projects\LC_114\LC_114\bin\Debug\LC_114.exe
+d:\documents\visual studio 2010\Projects\LC_114\LC_114\bin\Debug\LC_114.pdb
+d:\documents\visual studio 2010\Projects\LC_114\LC_114\obj\x86\Debug\LC_114.exe
+d:\documents\visual studio 2010\Projects\LC_114\LC_114\obj\x86\Debug\LC_114.pdb

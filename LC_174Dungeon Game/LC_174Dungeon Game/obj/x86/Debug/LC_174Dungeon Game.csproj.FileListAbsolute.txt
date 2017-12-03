@@ -1,0 +1,4 @@
+D:\Documents\Visual Studio 2010\Projects\LC_174Dungeon Game\LC_174Dungeon Game\bin\Debug\LC_174Dungeon Game.exe
+D:\Documents\Visual Studio 2010\Projects\LC_174Dungeon Game\LC_174Dungeon Game\bin\Debug\LC_174Dungeon Game.pdb
+D:\Documents\Visual Studio 2010\Projects\LC_174Dungeon Game\LC_174Dungeon Game\obj\x86\Debug\LC_174Dungeon Game.exe
+D:\Documents\Visual Studio 2010\Projects\LC_174Dungeon Game\LC_174Dungeon Game\obj\x86\Debug\LC_174Dungeon Game.pdb

@@ -1,0 +1,4 @@
+d:\documents\visual studio 2010\Projects\LC_6ZigZag Conversion\LC_6ZigZag Conversion\bin\Debug\LC_6ZigZag Conversion.exe
+d:\documents\visual studio 2010\Projects\LC_6ZigZag Conversion\LC_6ZigZag Conversion\bin\Debug\LC_6ZigZag Conversion.pdb
+d:\documents\visual studio 2010\Projects\LC_6ZigZag Conversion\LC_6ZigZag Conversion\obj\x86\Debug\LC_6ZigZag Conversion.exe
+d:\documents\visual studio 2010\Projects\LC_6ZigZag Conversion\LC_6ZigZag Conversion\obj\x86\Debug\LC_6ZigZag Conversion.pdb

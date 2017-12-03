@@ -1,0 +1,5 @@
+d:\documents\visual studio 2010\Projects\LC_79Word Search\LC_79Word Search\bin\Debug\LC_79Word Search.exe
+d:\documents\visual studio 2010\Projects\LC_79Word Search\LC_79Word Search\bin\Debug\LC_79Word Search.pdb
+d:\documents\visual studio 2010\Projects\LC_79Word Search\LC_79Word Search\obj\x86\Debug\LC_79Word Search.exe
+d:\documents\visual studio 2010\Projects\LC_79Word Search\LC_79Word Search\obj\x86\Debug\LC_79Word Search.pdb
+d:\documents\visual studio 2010\Projects\LC_79Word Search\LC_79Word Search\obj\x86\Debug\LC_79Word Search.csprojResolveAssemblyReference.cache
