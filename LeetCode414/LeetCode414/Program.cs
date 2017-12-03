@@ -2,7 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-//using System.Array;
+
+//找第三大元素
+//Given a non-empty array of integers, return the third maximum number in this array. 
+//If it does not exist, return the maximum number. The time complexity must be in O(n).
 
 namespace LeetCode414
 {
@@ -11,30 +14,32 @@ namespace LeetCode414
     {
         static void Main(string[] args)
         {
-            int[] nums = new int[] { 3, 2, 2, 6, 4 };
-            //Array.Sort(test);
-            int[] nums_order = new int[nums.Length];
-            nums.CopyTo(nums_order, 0);
+            int[] nums = new int[] { 3, 2, 2, 6, 4,6,784,4352,342};
+            int max = nums[0];
             Array.Sort(nums);
-            int head = nums.Length;
-            int tail = -1;
-            for (int i = 0; i <= nums.Length - 1; i++)
+            // Array.Reverse(nums);
+            int j = 0;
+            for (int i = nums.Length - 1; i > 0; i--)
             {
-                if (nums[i] != nums_order[i])
+                if (nums[i] != nums[i - 1])
                 {
-                    head = Math.Min(head, i);
+                    j += 1;
+                    if (j == 2)
+                    {
+                        max = nums[i - 1];
+                        break;
+                    }
+                    else
+                    {
+                        max = nums[i] > nums[i - 1] ? nums[i] : nums[i - 1];
+                    }
                 }
-                if (nums[nums.Length - i - 1] != nums_order[nums.Length - i - 1])
-                {
-                    tail = Math.Max(tail, nums.Length - i - 1);
-                }
+
+                //else continue;
             }
 
-            //return (tail - head + 1);
-            //for (int i = 0; i < 5; i++)
-           // {
-            Console.Write(tail - head + 1);//, test[1], test[2], test[3], test[4]);
-            //}
+            Console.WriteLine(max);//, test[1], test[2], test[3], test[4]);
+
             Console.ReadKey();
         }
             

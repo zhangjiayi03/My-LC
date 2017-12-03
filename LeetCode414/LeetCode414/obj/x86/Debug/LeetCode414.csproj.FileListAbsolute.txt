@@ -3,3 +3,9 @@ D:\Documents\Visual Studio 2010\Projects\LeetCode414\LeetCode414\bin\Debug\LeetC
 D:\Documents\Visual Studio 2010\Projects\LeetCode414\LeetCode414\obj\x86\Debug\LeetCode414.exe
 D:\Documents\Visual Studio 2010\Projects\LeetCode414\LeetCode414\obj\x86\Debug\LeetCode414.pdb
 d:\documents\visual studio 2010\Projects\LeetCode414\LeetCode414\obj\x86\Debug\LeetCode414.csprojResolveAssemblyReference.cache
+D:\Github repository\My-LC\LeetCode414\LeetCode414\bin\Debug\LeetCode414.exe.config
+D:\Github repository\My-LC\LeetCode414\LeetCode414\obj\x86\Debug\LeetCode414.exe
+D:\Github repository\My-LC\LeetCode414\LeetCode414\obj\x86\Debug\LeetCode414.pdb
+D:\Github repository\My-LC\LeetCode414\LeetCode414\bin\Debug\LeetCode414.exe
+D:\Github repository\My-LC\LeetCode414\LeetCode414\bin\Debug\LeetCode414.pdb
+D:\Github repository\My-LC\LeetCode414\LeetCode414\obj\x86\Debug\LeetCode414.csprojResolveAssemblyReference.cache
